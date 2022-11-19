@@ -1,1 +1,2 @@
-# This my Counter App using React JS
+# This my Counter App using React JS    
+## this is a react app 
